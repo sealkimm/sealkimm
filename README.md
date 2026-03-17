@@ -9,9 +9,9 @@
 
 <br />
 
-<div align="center">
-
 ## What I Value
+
+<div align="center">
 
 <table>
   <tr>
@@ -36,7 +36,11 @@
   </tr>
 </table>
 
+</div>
+
 ## Tech Stack
+
+<div align="center">
 
 **Programming Language**
 
@@ -78,4 +82,3 @@
     </td>
   </tr>
 </table>
-</div>
