@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" alt="안녕하세요 프론트엔드 개발자 김희원입니다" width="854" />
+<div align="left" style="display: inline-block;">
+  <strong>FRONTEND DEVELOPER</strong>
+  <br />
+  <span style="font-size: 25px;"><strong>안녕하세요 프론트엔드 개발자 김희원입니다.</strong></span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" />
+</div>
 
 </div>
 
@@ -31,11 +36,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Framework and Library" width="176" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" height="28" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" height="28" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" height="30" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" height="30" />
 </p>
 
 `React.js` `Next.js` `Vue.js` `Tailwind CSS` `TanStack Query` `Zustand`
