@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align="left" style="display: inline-block;">
+<div align="center" style="display: inline-block;">
   <strong>FRONTEND DEVELOPER</strong>
   <h1>안녕하세요 프론트엔드 개발자 김희원입니다. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" /></h1>
 </div>
@@ -9,12 +9,14 @@
 
 <br />
 
+<div align="center">
+
 ## What I Value
 
-<table width="100%">
+<table>
   <tr>
-    <th align="left">Keyword</th>
-    <th align="left">Description</th>
+    <th>Keyword</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td><code>Structure</code></td>
@@ -35,8 +37,6 @@
 </table>
 
 ## Tech Stack
-
-<div align="center">
 
 **Programming Language**
 
@@ -68,13 +68,14 @@
 
 ## GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=sealkimm&show_icons=true&hide_border=true&title_color=0f172a&text_color=475569&icon_color=f97316&bg_color=ffffff" alt="GitHub Stats" height="165" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealkimm&layout=compact&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
+</div>
