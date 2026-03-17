@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=DDF5D5&height=120&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B9%80%ED%9D%AC%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4&fontColor=000000&fontSize=32&animation=fadeIn" alt="안녕하세요 프론트엔드 개발자 김희원입니다" />
-<br />
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" />
+<img src="./assets/header-banner.svg" alt="안녕하세요 프론트엔드 개발자 김희원입니다" width="854" />
 
 </div>
 

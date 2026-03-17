@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" role="img" aria-labelledby="title desc">
+  <title id="title">안녕하세요 프론트엔드 개발자 김희원입니다</title>
+  <desc id="desc">그라데이션 말풍선 배경 위에 소개 문구와 손인사 이모지가 있는 헤더 배너</desc>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EAF7D9"/>
+      <stop offset="50%" stop-color="#CDEDA4"/>
+      <stop offset="100%" stop-color="#A9DB7A"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#linear)" d="M 30 0 H 824 C 839 0, 854 15, 854 30 V 130 C 854 145, 839 160, 824 160 H 794 L 754 200 L 714 160 H 30 C 15 160, 0 145, 0 130 V 30 C 0 15, 15 0, 30 0 Z"/>
+  <text x="54" y="90" fill="#111111" font-family="'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" opacity="0.92">
+    FRONTEND DEVELOPER
+  </text>
+  <text x="54" y="126" fill="#111111" font-family="'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">
+    안녕하세요 프론트엔드 개발자 김희원입니다.
+  </text>
+  <text x="575" y="127" text-anchor="middle" font-family="'Apple Color Emoji', 'Segoe UI Emoji', sans-serif" font-size="34">
+    👋
+  </text>
+</svg>
