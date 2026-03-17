@@ -1,0 +1,53 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="420" rx="32" fill="#0F172A"/>
+  <rect width="1280" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="1060" cy="76" r="180" fill="url(#glow1)" fill-opacity="0.75"/>
+  <circle cx="180" cy="340" r="220" fill="url(#glow2)" fill-opacity="0.55"/>
+  <circle cx="1148" cy="316" r="130" fill="url(#glow3)" fill-opacity="0.55"/>
+  <path d="M0 308C119 251 213 230 344 244C435 254 494 298 585 304C695 312 789 258 893 238C999 218 1115 232 1280 284V420H0V308Z" fill="url(#wave)" fill-opacity="0.9"/>
+  <g opacity="0.24">
+    <path d="M772 82H1126" stroke="white" stroke-width="2"/>
+    <path d="M772 118H1180" stroke="white" stroke-width="2"/>
+    <path d="M772 154H1088" stroke="white" stroke-width="2"/>
+    <path d="M772 190H1160" stroke="white" stroke-width="2"/>
+    <path d="M772 226H1024" stroke="white" stroke-width="2"/>
+  </g>
+  <g opacity="0.95">
+    <rect x="760" y="64" width="456" height="184" rx="24" fill="#0B1220" fill-opacity="0.42" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <circle cx="796" cy="100" r="8" fill="#F97316"/>
+    <circle cx="822" cy="100" r="8" fill="#FACC15"/>
+    <circle cx="848" cy="100" r="8" fill="#22C55E"/>
+  </g>
+  <text x="72" y="130" fill="#E2E8F0" font-family="'Segoe UI', 'Arial', sans-serif" font-size="24" font-weight="700" letter-spacing="3">FRONTEND DEVELOPER</text>
+  <text x="72" y="214" fill="white" font-family="'Segoe UI', 'Arial', sans-serif" font-size="64" font-weight="800">HEEWON KIM</text>
+  <text x="72" y="264" fill="#CBD5E1" font-family="'Segoe UI', 'Arial', sans-serif" font-size="28" font-weight="500">Structure, Interaction, Collaboration</text>
+  <text x="72" y="322" fill="#F8FAFC" font-family="'Segoe UI', 'Arial', sans-serif" font-size="22" font-weight="500">사용자 흐름을 이해하고, 재사용 가능한 구조로 구현합니다.</text>
+  <rect x="72" y="344" width="164" height="42" rx="21" fill="#F97316"/>
+  <text x="105" y="371" fill="white" font-family="'Segoe UI', 'Arial', sans-serif" font-size="18" font-weight="700">React · Next.js</text>
+  <rect x="248" y="344" width="164" height="42" rx="21" fill="#14B8A6"/>
+  <text x="287" y="371" fill="white" font-family="'Segoe UI', 'Arial', sans-serif" font-size="18" font-weight="700">TypeScript</text>
+  <defs>
+    <linearGradient id="bg" x1="118" y1="34" x2="1160" y2="394" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1060 76) rotate(90) scale(180)">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 340) rotate(90) scale(220)">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1148 316) rotate(90) scale(130)">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="162" y1="246" x2="1117" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="0.5" stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+</svg>
