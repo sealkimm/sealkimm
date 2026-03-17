@@ -2,9 +2,7 @@
 
 <div align="left" style="display: inline-block;">
   <strong>FRONTEND DEVELOPER</strong>
-  <br />
-  <span style="font-size: 25px;"><strong>안녕하세요 프론트엔드 개발자 김희원입니다.</strong></span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" />
+  <h2>안녕하세요 프론트엔드 개발자 김희원입니다. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" /></h2>
 </div>
 
 </div>
