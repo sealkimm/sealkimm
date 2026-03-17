@@ -75,10 +75,14 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sealkimm&show_icons=true&hide_border=true&title_color=0f172a&text_color=475569&icon_color=f97316&bg_color=ffffff" alt="GitHub Stats" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sealkimm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0f172a&text_color=475569&icon_color=f97316&bg_color=ffffff" alt="GitHub Stats" height="165" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealkimm&layout=compact&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" alt="Top Languages" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealkimm&layout=compact&count_private=true&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  Private PR/Issue/Commit stats require a self-hosted <code>github-readme-stats</code> instance with your GitHub token.
+</p>
