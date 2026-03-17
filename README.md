@@ -2,7 +2,7 @@
 
 <div align="left" style="display: inline-block;">
   <strong>FRONTEND DEVELOPER</strong>
-  <h2>안녕하세요 프론트엔드 개발자 김희원입니다. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" /></h2>
+  <h1>안녕하세요 프론트엔드 개발자 김희원입니다. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="손 흔들기" /></h1>
 </div>
 
 </div>
@@ -11,12 +11,28 @@
 
 ## What I Value
 
-| Keyword         | Description                                                              |
-| --------------- | ------------------------------------------------------------------------ |
-| `Structure`     | 기능 추가가 쉬운 컴포넌트 구조와 상태 설계를 중요하게 생각합니다.        |
-| `Interaction`   | 단순한 모션이 아니라 사용자 흐름을 강화하는 인터랙션을 구현합니다.       |
-| `Collaboration` | 동료가 읽기 쉽고 이어가기 쉬운 코드가 결국 좋은 코드라고 믿습니다.       |
-| `Impact`        | 반복 업무를 줄이고 팀 생산성을 높이는 자동화와 공통화에 관심이 많습니다. |
+<table width="100%">
+  <tr>
+    <th align="left">Keyword</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><code>Structure</code></td>
+    <td>기능 추가가 쉬운 컴포넌트 구조와 상태 설계를 중요하게 생각합니다.</td>
+  </tr>
+  <tr>
+    <td><code>Interaction</code></td>
+    <td>단순한 모션이 아니라 사용자 흐름을 강화하는 인터랙션을 구현합니다.</td>
+  </tr>
+  <tr>
+    <td><code>Collaboration</code></td>
+    <td>동료가 읽기 쉽고 이어가기 쉬운 코드가 결국 좋은 코드라고 믿습니다.</td>
+  </tr>
+  <tr>
+    <td><code>Impact</code></td>
+    <td>반복 업무를 줄이고 팀 생산성을 높이는 자동화와 공통화에 관심이 많습니다.</td>
+  </tr>
+</table>
 
 ## Tech Stack
 
