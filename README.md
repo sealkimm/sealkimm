@@ -70,7 +70,7 @@
 
 </div>
 
-<!-- ## GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -85,4 +85,4 @@
 
 <p align="center">
   Private PR/Issue/Commit stats require a self-hosted <code>github-readme-stats</code> instance with your GitHub token.
-</p> -->
+</p>
