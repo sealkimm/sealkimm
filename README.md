@@ -70,19 +70,15 @@
 
 </div>
 
-<!-- ## GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sealkimm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0f172a&text_color=475569&icon_color=f97316&bg_color=ffffff" alt="GitHub Stats" height="165" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sealkimm&amp;show_icons=true&amp;hide_border=true&amp;title_color=0f172a&amp;text_color=475569&amp;icon_color=f97316&amp;bg_color=ffffff" alt="GitHub Stats" height="165" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealkimm&layout=compact&count_private=true&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" alt="Top Languages" height="165" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sealkimm&amp;layout=compact&amp;hide_border=true&amp;title_color=0f172a&amp;text_color=475569&amp;bg_color=ffffff" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  Private PR/Issue/Commit stats require a self-hosted <code>github-readme-stats</code> instance with your GitHub token.
-</p> -->
